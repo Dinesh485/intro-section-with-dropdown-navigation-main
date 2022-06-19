@@ -38,7 +38,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS 
 - Flexbox
 - Mobile-first workflow
 - [TailwindCss](https://tailwindcss.com/) - For styles
