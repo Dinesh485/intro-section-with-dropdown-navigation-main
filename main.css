@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+   
+    .drop_down_contents{
+        @apply  h-0 overflow-hidden transition-all duration-300 ease-out lg:absolute lg:bg-white lg:shadow-2xl lg:rounded-xl lg:h-auto lg:scale-0 lg:opacity-0 lg:pointer-events-none lg:origin-top-left lg:duration-150;
+    }
+    .drop_down_contents > div{
+        @apply flex flex-col pl-5 py-3 lg:p-5 lg:px-7;
+    }
+    .drop_down_contents > div a{
+        @apply my-2 flex gap-3 items-center lg:gap-3 lg:my-1;
+    }
+    .drop_down_btn{
+        @apply flex gap-5 items-center w-full lg:gap-2 lg:py-4 ;
+    }
+    .drop_down_btn svg{
+        @apply transition-transform duration-300 ease-out lg:duration-150 stroke-current;
+    }
+    @media(min-width: 1024px){
+        .drop_down_container:hover > .drop_down_contents{
+           @apply scale-100 opacity-100 pointer-events-auto;
+        }
+        .drop_down_container:hover > .drop_down_btn svg{
+           @apply rotate-180;
+        }
+        .drop_down_container:hover > .drop_down_btn {
+           @apply text-almost-black;
+        }
+    }
+}
