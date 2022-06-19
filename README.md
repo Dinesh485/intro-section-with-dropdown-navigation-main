@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/assets/screenshot.png)
+![](./src/assets/images/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-intro-section-with-navigation-using-tailwindcss-vftCJFCyoe](https://www.frontendmentor.io/solutions/responsive-intro-section-with-navigation-using-tailwindcss-vftCJFCyoe)
+- Live Site URL: [https://relaxed-hotteok-26475a.netlify.app/](https://relaxed-hotteok-26475a.netlify.app/)
 
 ## My process
 
