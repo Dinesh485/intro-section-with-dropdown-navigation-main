@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/responsive-intro-section-with-navigation-using-tailwindcss-vftCJFCyoe](https://www.frontendmentor.io/solutions/responsive-intro-section-with-navigation-using-tailwindcss-vftCJFCyoe)
-- Live Site URL: [https://relaxed-hotteok-26475a.netlify.app/](https://relaxed-hotteok-26475a.netlify.app/)
+- Live Site URL: [https://intro-section-with-navigation.netlify.app](https://intro-section-with-navigation.netlify.app)
 
 ## My process
 
